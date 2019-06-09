@@ -14,7 +14,7 @@ class ProductProvider extends Component {
     cart: [],
     cartItems: 0,
     cartSubTotal: 0,
-    carTotal: 0,
+    cartTotal: 0,
     storeProducts: [],
     filteredProducts: [],
     featuredProducts: [],
